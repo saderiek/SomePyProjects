@@ -1,4 +1,4 @@
-# This is where I keep the lab work for one of my university's disciplines 
+# The lab work for one of my university's disciplines 
 <details>
 <summary><h3>FS/Registry management</h3></summary>
 <h4> Implement a console application in the programming language
